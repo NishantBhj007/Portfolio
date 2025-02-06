@@ -324,7 +324,7 @@
     url(https://assets.codepen.io/296057/fem-feature-bottom.png), url(https://assets.codepen.io/296057/fem-feature-bkgd.png);
     background-repeat: repeat-x,repeat;
     background-position:  bottom center,center center;
-    padding: 6rem 0;
+    padding: 2rem 0;
  }
 
  .section-featured h2 {
@@ -347,6 +347,7 @@
  .section-featured article {
    display: grid;
    grid-template-rows: auto;
+   background-color: blueviolet;
  }
 
  .section-featured img {
